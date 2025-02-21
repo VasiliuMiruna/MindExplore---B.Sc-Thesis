@@ -1,0 +1,28 @@
+{
+    "specialties": {
+      "depression": "depresie",
+      "anxiety": "anxietate",
+      "relationship-issues": "relații",
+      "family-conflicts": "conflicte familiale",
+      "trauma-and-abuse": "traume și abuz",
+      "LGBTQ+": "LGBTQ+",
+      "grief-and-loss": "doliu și pierdere",
+      "eating-disorders": "tulburări de alimentație",
+      "addiction": "dependențe",
+      "self-esteem-and-confidence": "stima de sine și încredere",
+      "career-counseling": "consiliere în carieră",
+      "stress-management": "gestionarea stresului",
+      "anger-management": "gestionarea furiei",
+      "parenting": "parenting",
+      "ADHD": "ADHD",
+      "OCD": "OCD",
+      "PTSD": "PTSD",
+      "sleep-disorders": "tulburări de somn",
+      "christianity": "Creștinism",
+      "judaism": "Iudaism",
+      "islam": "Islam"
+
+    }
+  }
+  
+
